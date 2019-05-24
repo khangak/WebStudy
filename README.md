@@ -6,3 +6,4 @@ test new branch
 commit cho mastercommit cho test
 commit cho test2
 commit cho master2
+commit cho test3
