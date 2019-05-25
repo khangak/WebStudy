@@ -4,3 +4,4 @@ cap nhat lai tu dau
 branch dc thay doi
 cap nhat lai test
 test1
+test2
